@@ -1,4 +1,4 @@
-   alert("Welcome to Maze Game.\nMove pink ball with arrow keys until it reaches the green box to win. Due to a glitch, don't hold arrow key down.");
+   alert("Welcome to Maze Game.\n Move pink ball with arrow keys until it reaches the green box to win. Due to a glitch, don't hold arrow key down.");
 
 
 const { 
