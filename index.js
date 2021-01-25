@@ -1,3 +1,7 @@
+window.onload =>(){ 
+                alert("Move pink ball with arrows keys until it reaches the green box to win. Due to a glitch, tab the arrow keys many times and don't hold it down. ");
+                }
+
 const { 
     Engine, 
     Render, 
